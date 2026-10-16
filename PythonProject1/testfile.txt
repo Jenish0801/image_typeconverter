@@ -1,0 +1,3 @@
+Hello, how are you?
+I am learning Python.
+This is my first translation program.
